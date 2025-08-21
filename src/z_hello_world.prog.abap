@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT Z_HELLO_WORLD.
 
-WRITE: / 'Hello from abapGit!'.
+WRITE: / 'Hello from abapGit! - updated'.
